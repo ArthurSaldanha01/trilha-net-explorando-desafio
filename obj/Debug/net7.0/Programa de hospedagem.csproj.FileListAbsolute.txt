@@ -1,0 +1,15 @@
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\Programa de hospedagem.csproj.AssemblyReference.cache
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\Programa de hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\Programa de hospedagem.AssemblyInfoInputs.cache
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\Programa de hospedagem.AssemblyInfo.cs
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\Programa de hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\bin\Debug\net7.0\Programa de hospedagem.exe
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\bin\Debug\net7.0\Programa de hospedagem.deps.json
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\bin\Debug\net7.0\Programa de hospedagem.runtimeconfig.json
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\bin\Debug\net7.0\Programa de hospedagem.dll
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\bin\Debug\net7.0\Programa de hospedagem.pdb
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\Programa de hospedagem.dll
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\refint\Programa de hospedagem.dll
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\Programa de hospedagem.pdb
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\Programa de hospedagem.genruntimeconfig.cache
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\Dio - C#\Programa de hospedagem\obj\Debug\net7.0\ref\Programa de hospedagem.dll
